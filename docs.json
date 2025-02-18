@@ -65,6 +65,15 @@
     "light": "/logo/logo-text-dark.png",
     "dark": "/logo/logo-text-light.png"
   },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-CRT9N052B8"
+    },
+    "posthog": {
+      "apiKey": "phc_FfEebzgR9duHFmbvZLZZNNj3M0T0pCxWfxdqeHuZ6Q3",
+      "apiHost": "https://eu.i.posthog.com"
+    }
+  },
   "navbar": {
     "links": [
       {
