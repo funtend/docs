@@ -7,6 +7,15 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
+  "fonts": {
+    "heading": {
+      "family": "Inter",
+      "weight": 800
+    },
+    "body": {
+      "family": "Inter"
+    }
+  },
   "favicon": "/favicon.png",
   "navigation": {
     "groups": [
