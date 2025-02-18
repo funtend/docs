@@ -14,8 +14,9 @@
         "group": "Introduction",
         "pages": [
           "introduction",
-          "problems",
-          "development"
+          "introduction/problem",
+          "introduction/solution",
+          "introduction/tokenomics"
         ]
       },
       {
