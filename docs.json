@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Funtend Docs",
   "colors": {
     "primary": "#E6A800",
@@ -60,6 +60,10 @@
         }
       ]
     }
+  },
+  "logo": {
+    "light": "/logo/logo-text.svg",
+    "dark": "/logo/logo-text.svg"
   },
   "navbar": {
     "links": [
