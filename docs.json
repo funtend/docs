@@ -43,10 +43,6 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/logo-text.svg",
-    "dark": "/logo/logo-text.svg"
-  },
   "navbar": {
     "links": [
       {
