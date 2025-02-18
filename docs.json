@@ -1,11 +1,20 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Funtend Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#E6A800",
+    "light": "#E6A800",
+    "dark": "#E6A800"
+  },
+  "styling": {
+    "codeblocks": "system"
+  },
+  "background": {
+    "color": {
+      "light": "#FFFFFF",
+      "dark": "#000000"
+    }
   },
   "fonts": {
     "heading": {
