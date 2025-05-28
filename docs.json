@@ -33,11 +33,15 @@
         "pages": [
           "introduction",
           "introduction/problem",
-          "introduction/solution",
-          "introduction/ecosystem-strategy",
-          "introduction/user-journey",
-          "introduction/revenue-model",
-          "introduction/tokenomics"
+          "introduction/solution"
+        ]
+      },
+      {
+        "group": "Platform Design",
+        "pages": [
+          "platform/ecosystem-strategy",
+          "platform/user-journey",
+          "platform/revenue-model"
         ]
       }
     ],
