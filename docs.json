@@ -41,7 +41,33 @@
         "pages": [
           "platform/ecosystem-strategy",
           "platform/user-journey",
-          "platform/revenue-model"
+          "platform/revenue-model",
+          "platform/tokenomics",
+          "platform/governance"
+        ]
+      },
+      {
+        "group": "Development",
+        "pages": [
+          "development/roadmap"
+        ]
+      },
+      {
+        "group": "Community",
+        "pages": [
+          "community/community-and-partnerships"
+        ]
+      },
+      {
+        "group": "Legal",
+        "pages": [
+          "legal/legal-and-risk-considerations"
+        ]
+      },
+      {
+        "group": "Appendix",
+        "pages": [
+          "appendix/final-notes"
         ]
       }
     ],
